@@ -6,6 +6,7 @@ export default defineConfig({
   title: "观南Gheir",
   description: "Project for Blog",
   lastUpdated: true,
+  ignoreDeadLinks: true,
   base: '/MyBlog/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
