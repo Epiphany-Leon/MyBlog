@@ -7,9 +7,9 @@ import {
   ref,
   unref,
   watchEffect
-} from "./chunk-7TH3V4YU.js";
+} from "./chunk-V7AUFIRV.js";
 
-// ../node_modules/@vueuse/shared/index.mjs
+// node_modules/@vueuse/shared/index.mjs
 function tryOnScopeDispose(fn) {
   if (getCurrentScope()) {
     onScopeDispose(fn);
@@ -43,7 +43,7 @@ function identity(arg) {
   return arg;
 }
 
-// ../node_modules/@vueuse/core/index.mjs
+// node_modules/@vueuse/core/index.mjs
 function unrefElement(elRef) {
   var _a;
   const plain = toValue(elRef);
@@ -166,4 +166,4 @@ export {
   unrefElement,
   useMediaQuery
 };
-//# sourceMappingURL=chunk-QPUOJRBS.js.map
+//# sourceMappingURL=chunk-EH6ATSCM.js.map
