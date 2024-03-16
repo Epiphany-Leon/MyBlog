@@ -19,8 +19,8 @@ hero:
       text: 记录
       link: /记录
     - theme: alt
-      text: 时评
-      link: /时评
+      text: 看世界
+      link: /看世界
     - theme: alt
       text: 书影音
       link: /书影音
@@ -30,8 +30,8 @@ features:
     details: 从2021年年末的第一篇【年度总结】推文开始，个人公众号正式开始运营
   - title: 记录
     details: 日常生活中做的一些事，写的一些随记，有的一些感想
-  - title: 时评
-    details: 偶尔灵感大发写的一些时事评论
+  - title: 看世界
+    details: 偶尔灵感大发写的一些时事评论，以及全球企业的故事
   - title: 书影音
     details: 看过的书、电视剧、电影、舞台剧、演唱会等等的所思所想
 ---

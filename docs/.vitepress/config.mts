@@ -19,7 +19,7 @@ export default defineConfig({
         items: [
           { text: '年度总结', link: '/年度总结'},
           { text: '记录', link: '/记录'},
-          { text: '时评', link: '/时评'},
+          { text: '看世界', link: '/看世界'},
           { text: '书影音', link: '/书影音'}
         ]
       }
@@ -39,7 +39,7 @@ export default defineConfig({
         items: [
           { text: '年度总结', link: '/年度总结' },
           { text: '记录', link: '/记录' },
-          { text: '时评', link: '/时评' },
+          { text: '看世界', link: '/看世界' },
           { text: '书影音', link: '/书影音' }
         ]
       }
