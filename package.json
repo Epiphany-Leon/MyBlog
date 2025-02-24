@@ -5,7 +5,9 @@
     "docs:preview": "vitepress preview docs --port 5732"
   },
   "dependencies": {
-    "vitepress": "^1.0.0-rc.25",
     "vue": "^3.3.8"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
   }
 }
