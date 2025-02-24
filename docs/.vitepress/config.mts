@@ -11,7 +11,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/ink.png',
-    siteTitle: '观南Gheir',
+    siteTitle: '少辞心斋',
     nav: [
       { text: 'Home', link: '/' },
       {text: 'About', link: 'https://epiphany-leon.github.io/site_lih/'},

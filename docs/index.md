@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "观南Gheir"
+  name: "少辞心斋"
   text: "Project for Blog"
   tagline: 
     Per aspera ad astra!
