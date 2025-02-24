@@ -14,10 +14,7 @@ export default defineConfig({
     siteTitle: '观南Gheir',
     nav: [
       { text: 'Home', link: '/' },
-      {
-        text: 'About',
-        link: 'https://epiphany-leon.github.io/site_lih/'
-      },
+      {text: 'About', link: 'https://epiphany-leon.github.io/site_lih/'},
       { 
         text: 'Blog', 
         items: [
