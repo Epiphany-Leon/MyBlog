@@ -62,5 +62,5 @@ Marie 在她的客厅里，用接近一小时的时间讲述自己的一生。�
 
 跑得慢也很好、享受小确幸也很好、不争气也很好，但请相信，**我们是结果，亦是下一段旅程的起点，我们都会抵达终点**。
 
-![印刻-repo.JPG](../public/印刻-repo.JPG)
+![印刻-repo.jpg](../public/印刻-repo.jpg)
 ![Marie.jpeg](../public/Marie.jpeg)
